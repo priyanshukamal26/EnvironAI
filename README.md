@@ -1,1 +1,3 @@
 # EnvironAI
+
+The AI Air Quality Web App monitors real-time AQI across Indian cities and predicts next-day pollution levels using a lightweight ML model. It provides clear dashboards, trend graphs, and personalized health advisories, helping citizens make safe daily choices. An optional chatbot answers city-specific queries, making air quality updates simple, actionable, and health-focused.
